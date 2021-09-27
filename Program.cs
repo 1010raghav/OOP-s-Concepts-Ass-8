@@ -10,7 +10,7 @@ namespace Employee_wage_2
             Console.WriteLine("UC7 output");
             
             UC7_ComputeEmpWageUsingClassMethod obj7 = new UC7_ComputeEmpWageUsingClassMethod();
-            obj7.ComputeEmpWage();
+            obj.ComputeEmpWage();
            } 
      }         
 } 
