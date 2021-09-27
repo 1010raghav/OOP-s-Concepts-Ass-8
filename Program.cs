@@ -9,8 +9,8 @@ namespace Employee_wage_2
             
             Console.WriteLine("UC5 output");
 
-            UC5_CalculateWagesFor20DaysInMonth obj5 = new UC5_CalculateWagesFor20DaysInMonth();
-            obj5.CalculateWagesFor20DaysInMonth();
+            UC5_CalculateWagesFor20DaysInMonth obj = new UC5_CalculateWagesFor20DaysInMonth();
+            obj.CalculateWagesFor20DaysInMonth();
             
            } 
      }         
