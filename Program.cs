@@ -9,8 +9,8 @@ namespace Employee_wage_2
             
             Console.WriteLine("UC2 output");
             
-            UC2_EmpWage obj2 = new UC2_EmpWage();
-            obj2.EmpWage();
+            UC2_EmpWage obj = new UC2_EmpWage();
+            obj.EmpWage();
             
            } 
      }         
