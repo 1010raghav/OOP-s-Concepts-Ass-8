@@ -9,7 +9,7 @@ namespace Employee_wage_2
             
             Console.WriteLine("UC8 output");
             
-            UC8_ComputeEmpWageForMultipleCompanies obj8 = new UC8_ComputeEmpWageForMultipleCompanies();
+            UC8_ComputeEmpWageForMultipleCompanies obj = new UC8_ComputeEmpWageForMultipleCompanies();
             obj.ComputeEmpWage("TCS", 10, 2, 8);
             
            } 
