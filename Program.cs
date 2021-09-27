@@ -9,8 +9,8 @@ namespace Employee_wage_2
             
            Console.WriteLine("UC4 output");
             
-            UC4_EmpWageUsingSwitch obj4 = new UC4_EmpWageUsingSwitch();
-            obj4.EmpWageUsingSwitch();
+            UC4_EmpWageUsingSwitch obj = new UC4_EmpWageUsingSwitch();
+            obj.EmpWageUsingSwitch();
             
            } 
      }         
