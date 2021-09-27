@@ -9,8 +9,8 @@ namespace Employee_wage_2
             
             Console.WriteLine("UC6 output");
             
-            UC6_CalculateWageTill100HrsOr20IsReached obj6 = new UC6_CalculateWageTill100HrsOr20IsReached();
-            obj6.CalculateWageTill100HrsOr20IsReached();
+            UC6_CalculateWageTill100HrsOr20IsReached obj = new UC6_CalculateWageTill100HrsOr20IsReached();
+            obj.CalculateWageTill100HrsOr20IsReached();
             
            } 
      }         
