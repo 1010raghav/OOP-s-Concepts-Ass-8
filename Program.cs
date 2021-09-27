@@ -9,8 +9,8 @@ namespace Employee_wage_2
             
            Console.WriteLine("UC3 output");
 
-            UC3_PartTimeEmpWage obj3 = new UC3_PartTimeEmpWage();
-            obj3.PartTimeEmpWage();
+            UC3_PartTimeEmpWage obj = new UC3_PartTimeEmpWage();
+            obj.PartTimeEmpWage();
 
             
            } 
