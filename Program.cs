@@ -9,8 +9,8 @@ namespace Employee_wage_2
             
             Console.WriteLine("UC1 output");
            
-            UC1_EmployeeAttendance obj1 = new UC1_EmployeeAttendance(); 
-            obj1.GetAttendance();
+            UC1_EmployeeAttendance obj = new UC1_EmployeeAttendance(); 
+            obj.GetAttendance();
             
            } 
      }         
